@@ -17,4 +17,5 @@
             <textarea name ="body" cols="30" rows="10"></textarea>-->
             <input type="submit" name="submit" value="Save">
         </from>
+        <p>Create menu test </p>
 </div>
